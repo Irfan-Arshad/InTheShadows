@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74284558720",
+    "firebase_url": "https://in-the-shadows-44f68-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "in-the-shadows-44f68",
+    "storage_bucket": "in-the-shadows-44f68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74284558720:android:f68cba6515f88b7afcf965",
+        "android_client_info": {
+          "package_name": "com.Irfan.InTheShadows"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74284558720-1j3hi6s7ih5ncq79h4b3cqiqebltg79l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlt3jg7Vr6CuQ8Cnuvh1238aQE08zN65Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74284558720-1j3hi6s7ih5ncq79h4b3cqiqebltg79l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
